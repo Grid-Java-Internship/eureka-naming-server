@@ -7,7 +7,7 @@ server:
 
 eureka:
   instance:
-    hostname: eureka-naming-server
+    hostname: eureka-naming-server-service
   client:
     register-with-eureka: false
     fetch-registry: false
